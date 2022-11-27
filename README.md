@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://ambitious-water-08b5a3d00.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** -https://www.youtube.com/watch?v=03EDJSnxBx4 
 
 ## Azure technologies used for Project
 
